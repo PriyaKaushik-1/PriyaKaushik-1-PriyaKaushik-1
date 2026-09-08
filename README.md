@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20YourName&fontSize=42&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Priya&fontSize=42&animation=fadeIn" width="100%" />
 
   <!-- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 
   <p>Crafting accessible interfaces, design tokens, and web experiences.</p>
 
-  <!-- Social Badges -->
+  <!-- Social Badges 
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
@@ -19,7 +19,7 @@
   </a>
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  </a>-->
 
 </div>
 
@@ -27,14 +27,14 @@
 
 ### 🛠️ Tech Stack & Design Tools
 
-<div align="center">
+<!--<div align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop,tailwind,nextjs,react,ts,git" />
-</div>
+</div>-->
 
 ---
 
 ### 🎨 Featured Work
-
+<!--
 <table>
   <tr>
     <td width="50%">
@@ -55,7 +55,7 @@
     </td>
   </tr>
 </table>
-
+-->
 ---
 
 ### 📊 Activity & Stats
