@@ -3,11 +3,11 @@
   <!-- Hero Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Priya&fontSize=42&animation=fadeIn" width="100%" />
 
-  <!-- Animated Typing Headline 
+  <! -- Animated Typing Headline -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Product+Designer+%26+Frontend+Dev;Design+Systems+%26+Creative+Coding;Open+Source+Contributor" alt="Typing SVG" />
   </a>
-
+<--
   <p>Crafting accessible interfaces, design tokens, and web experiences.</p>
 -->
   <!-- Social Badges 
@@ -20,12 +20,12 @@
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>-->
-
+<!--
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Design Tools
+### 🛠️ Tech Stack & Design Tools-->
 
 <!--<div align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop,tailwind,nextjs,react,ts,git" />
